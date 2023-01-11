@@ -17,6 +17,7 @@
 		326D8F5C296EB098004F816C /* UintTestingRevUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 326D8F5B296EB098004F816C /* UintTestingRevUITests.swift */; };
 		326D8F5E296EB098004F816C /* UintTestingRevUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 326D8F5D296EB098004F816C /* UintTestingRevUITestsLaunchTests.swift */; };
 		326D8F6C296EB0F0004F816C /* Arithmatec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 326D8F6B296EB0F0004F816C /* Arithmatec.swift */; };
+		326D8F6E296EB375004F816C /* ArithmeticUnitTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 326D8F6D296EB375004F816C /* ArithmeticUnitTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		326D8F5B296EB098004F816C /* UintTestingRevUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UintTestingRevUITests.swift; sourceTree = "<group>"; };
 		326D8F5D296EB098004F816C /* UintTestingRevUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UintTestingRevUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		326D8F6B296EB0F0004F816C /* Arithmatec.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arithmatec.swift; sourceTree = "<group>"; };
+		326D8F6D296EB375004F816C /* ArithmeticUnitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticUnitTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 			isa = PBXGroup;
 			children = (
 				326D8F51296EB098004F816C /* UintTestingRevTests.swift */,
+				326D8F6D296EB375004F816C /* ArithmeticUnitTest.swift */,
 			);
 			path = UintTestingRevTests;
 			sourceTree = "<group>";
@@ -281,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				326D8F52296EB098004F816C /* UintTestingRevTests.swift in Sources */,
+				326D8F6E296EB375004F816C /* ArithmeticUnitTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
